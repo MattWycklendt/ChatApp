@@ -3,6 +3,8 @@ Demo Chat App to learn things, specifically sockets.io
 
 The core of this was innitially created from: http://socket.io/get-started/chat/
 
+I created a node.js server and a flask server to experiment with socket.io with different web service frameworks.
+
 ### Running the node.js express server
 `node` needs to be installed on your maching
 

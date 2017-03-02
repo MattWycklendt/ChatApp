@@ -7,5 +7,5 @@ setup(
     packages=['flask_server'],
     include_package_data=True,
     zip_safe=False,
-    install_requires=['flask', 'flask-socketio', 'gevent']
+    install_requires=['flask', 'flask-socketio', 'gevent', 'uwsgi']
 )
